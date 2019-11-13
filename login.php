@@ -221,10 +221,13 @@ hr {
       <label for="fname"><b>Upload Default Picturee</b></label><br>
       <input type="file" name="image"><br><br>
       
+      <label for="fname"><b>Full name</b></label>
+      <input type="text" placeholder="Enter Your Full name" name="fname" id="fname" /required>
+      
       <label for="uname"><b>Username</b></label>
       <input type="text" placeholder="Enter Your Username" name="uname" id="uname" /required>
 	  
-	  <label for="noic"><b>IC number</b></label>
+      <label for="noic"><b>IC number</b></label>
       <input type="text" placeholder="Enter Your ic number" name="noic" id="noic" /required>
 
       <label for="psw"><b>Password</b></label>
